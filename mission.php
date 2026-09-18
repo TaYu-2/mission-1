@@ -9,8 +9,6 @@ function initiateEscapeSequence(): void
     // 担当A: $is_fuel_unlocked = true;
     // 担当B: $security_key = "2026-RELEASE";
     $is_fuel_unlocked = true;
-    $security_key = "";
-    $is_fuel_unlocked = false;
     $security_key = "2026-RELEASE";
     // ==========================================
 
